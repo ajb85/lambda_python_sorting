@@ -26,6 +26,6 @@ def count_sort( arr, maximum=-1 ):
 
     return arr
 
-arr = [5,4,3,3,2,1]
+arr = [5,4,3,3,2,6,7,1,17]
 
 print(selection_sort(arr))
